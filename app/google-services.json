@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "295881263949",
+    "firebase_url": "https://easytransport-e3431.firebaseio.com",
+    "project_id": "easytransport-e3431",
+    "storage_bucket": "easytransport-e3431.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295881263949:android:5b23c67f9d9cef1b",
+        "android_client_info": {
+          "package_name": "com.example.rafie.easytransport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295881263949-2ni6hlq5n6vn91t1722lrqn4f3ife7fs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rafie.easytransport",
+            "certificate_hash": "38b4111839d46fa7327bfe691d715593ef680dbf"
+          }
+        },
+        {
+          "client_id": "295881263949-qbrq5msqmadmf15dr2806bdqbri4f412.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5U2Zua6mCI4RpHLog97jRa_o0BXXjlrE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295881263949-qbrq5msqmadmf15dr2806bdqbri4f412.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
